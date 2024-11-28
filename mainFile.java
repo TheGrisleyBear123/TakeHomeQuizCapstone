@@ -1,4 +1,6 @@
 //import java.util.Scanner;
+// for new puull request
+
 public class mainFile{
 	@FunctionalInterface
 	interface Calculate{
