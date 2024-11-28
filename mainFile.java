@@ -1,4 +1,6 @@
 //import java.util.Scanner;
+//request new command
+
 public class mainFile{
 	@FunctionalInterface
 	interface Calculate{
